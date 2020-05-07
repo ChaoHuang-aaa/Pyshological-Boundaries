@@ -81,18 +81,20 @@ text-align: left;
 font-weight: 800;
 
 }
-    
+
+.startLink {
+    text-align: right;
+}
+
 .start-to-try {
   width:10vw;
   font-family: Apercu, sans-serif;
 font-size: 1.5vw;
 color: black;
 font-weight: bold;
-position: absolute;
-top:240vw;
-left:55vw;
 letter-spacing: 0.1vw;
 line-height: 3.5vw;
+display:inline-block;
 }
     
       .arrow {
@@ -100,10 +102,8 @@ font-family: Apercu, sans-serif;
 font-size: 3vw;
 color: black;
 font-weight: bold;
-position: absolute;
-top:240vw;
-left:65vw;
 letter-spacing: 0.1vw;
 line-height: 3.5vw;
+display:inline-block;
 }
 
