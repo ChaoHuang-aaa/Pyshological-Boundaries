@@ -43,8 +43,6 @@ body {
 
 .dropdown:hover .dropdown-content {display: block;}
 
-.dropdown:hover .dropbtn {width: 30%;}
-
 /*intropage*/
 
 .intro-title {
